@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "399766360330",
+    "project_id": "sports-pwa69",
+    "storage_bucket": "sports-pwa69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399766360330:android:3e07e54763ca1811822af3",
+        "android_client_info": {
+          "package_name": "com.android.madapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399766360330-8a8e1ncq4rdp0os0rbe2s1q188jl4jet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6-BLf4aIO_twASNdWvFyWDPrwiC_wVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399766360330-8a8e1ncq4rdp0os0rbe2s1q188jl4jet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399766360330:android:eab85ae78b99a0a1822af3",
+        "android_client_info": {
+          "package_name": "com.example.madapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399766360330-8a8e1ncq4rdp0os0rbe2s1q188jl4jet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6-BLf4aIO_twASNdWvFyWDPrwiC_wVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399766360330-8a8e1ncq4rdp0os0rbe2s1q188jl4jet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
